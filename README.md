@@ -14,8 +14,6 @@ This is a simple Brainfuck interpreter written in Rust.
 
 ## Example
 
-If you have a Brainfuck program in a file called `helloworld.bf`, you can run it with:
-
 ```bash
-./target/release/brainfuck helloworld.bf
+./target/release/brainfuck examples/helloworld.bf
 ```
