@@ -6,7 +6,6 @@ This is a simple Brainfuck interpreter written in Rust.
 
 - Interprets Brainfuck programs of up to 30000 characters
 - Reads Brainfuck programs from files
-- Uses buffered I/O for efficiency
 
 ## Usage
 
